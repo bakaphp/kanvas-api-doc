@@ -1,4 +1,4 @@
-# Undestading Kanvas
+# Undertading Kanvas
 
 ## Kanvas Universe
 
