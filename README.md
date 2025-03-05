@@ -1,4 +1,4 @@
-# Undertading Kanvas
+# Understanding Kanvas
 
 ## Kanvas Universe
 
