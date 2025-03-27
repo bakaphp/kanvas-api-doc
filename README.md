@@ -22,7 +22,7 @@
 
 #### Inventory
 
-#### Social
+#### [Social](./docs/Social/main.md)
 
 #### Souk
 
